@@ -8,7 +8,7 @@ Le premier objectif est de pouvoir envoyer un message à Hubert, c'est-à-dire q
 
 ## Partie 2 : Configuration
 Cette partie se décompose en plusieurs étapes : 
-- La première est de faire apparaître la modale et son layer, au clique sur le "bouton" de configuration.
+- La première est de faire apparaître la modale et son layer, au clique sur le "bouton" de configuration (tout est déjà présent dans le HTML).
 - Il faut ensuite faire disparaître la modale lorsque l'on clique à côté (sur le layer).
 - Place ensuite à la configuration. Lorsque l'on applique les changements de couleur de bulles, appliquer le style correspondant, à chaque bulle de message.
 - Réitérer l'opération pour la couleur du texte.
