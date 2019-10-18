@@ -4,7 +4,7 @@
 Pensez à utiliser l'inspecteur et la console !**
 
 ## Partie 1 : Communication
-Le premier objectif est de pouvoir envoyer un message à Hubert, c'est-à-dire que celui-ci s'affiche dans la liste des messages prévue à cet effet.
+Le premier objectif est de pouvoir envoyer un message à Hubert, c'est-à-dire que celui-ci s'affiche dans la liste des messages prévue à cet effet. Le message doit être un élément "li" et avoir la classe "right".
 
 ## Partie 2 : Configuration
 Cette partie se décompose en plusieurs étapes : 
